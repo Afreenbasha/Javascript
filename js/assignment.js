@@ -1,5 +1,5 @@
 // String
-var String = "I'm Happy to join Pw Skills FSWD!";
+var String = "I'm Skilled FSWD!";
 
 // Number
 var numExample = 42;
