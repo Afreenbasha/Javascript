@@ -1,4 +1,4 @@
-let a=[1,2,3,"mashwithcoding",false];
+let a=[1,2,3,"coding",false];
 console.log(a);
 
 let b=new Array("abc",8);
